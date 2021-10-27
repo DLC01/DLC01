@@ -12,3 +12,4 @@
 
 ## See what im listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3134dq4rl3vwipvd6t4itngdn4hm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
